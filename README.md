@@ -72,7 +72,7 @@ too - it's ignored in the kickstart repo to make maintenance easier, but it's
 > `nvim-lua` with `<your_github_username>` in the commands below
 
 <details><summary> Linux and Mac </summary>
-https://github.com/BrandosFotos/kickstart.nvim.git
+
 ```sh
 git clone https://github.com/BrandosFotos/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
